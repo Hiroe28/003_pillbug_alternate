@@ -23,7 +23,7 @@
 
 または、以下のGitHub Pagesリンクにアクセスすることでもシミュレーションを実行できます：
 
-[ライブデモを見る](https://yourusername.github.io/pillbug-maze-simulation/)
+[ライブデモを見る](https://hiroe28.github.io/003_pillbug_alternate/)
 
 ## 操作方法
 
